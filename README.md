@@ -1,2 +1,11 @@
-# md_excersise
-Ćwiczenie z markdown
+# Witam
+## Ćwiczenie z markdown 
+**Przemysław środa**
+
+~~niezaliczone~~
+
+*Mam
+*22
+*lata.
+
+
