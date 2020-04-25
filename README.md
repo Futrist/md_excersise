@@ -12,5 +12,5 @@
 2. Jest
 3. Link
 4. D0
-5. Strony 
+5. Strony [Przemek](https://github.com/Futrist/md_excersise)
 
