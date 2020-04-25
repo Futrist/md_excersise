@@ -4,8 +4,8 @@
 
 ~~niezaliczone~~
 
-*Mam
-*22
-*lata.
+* Mam
+* 22
+* lata.
 
 
